@@ -459,11 +459,11 @@ footer.footer p {
 
 
   .social-link img:first-child {
-    margin-left: 20vh;
+    margin-left: 15vh;
   }
   .social-link img{
-    margin-top: 20px;
-      margin-left: 20vh;
+    margin-top: 40px;
+      margin-left: 15vh;
       display: block;
   }
 
