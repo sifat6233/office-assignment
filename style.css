@@ -466,12 +466,14 @@ footer.footer p {
       margin-left: 20vh;
       display: block;
   }
+
+    .fetchers-img {
+      grid-template-columns: repeat(1, 1fr);
+  
+    }
 }
 
-.fetchers-img {
-  grid-template-columns: repeat(1, 1fr);
 
-}
 /* animation keyframes */
 @keyframes zoomInOut {
 
